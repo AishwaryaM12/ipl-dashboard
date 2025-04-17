@@ -1,0 +1,9 @@
+@media screen and (max-width: 500px) {
+    .iplmatchcard{
+        flex-direction: column;
+    }
+
+    .iplmatchcarddate{
+       align-items: flex-start;
+    }
+}
